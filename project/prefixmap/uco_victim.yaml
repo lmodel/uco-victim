@@ -1,0 +1,92 @@
+{
+   "BFO": "http://purl.obolibrary.org/obo/BFO_",
+   "GSSO": "http://purl.obolibrary.org/obo/GSSO_",
+   "INO": "http://purl.obolibrary.org/obo/INO_",
+   "NCIT": "http://purl.obolibrary.org/obo/NCIT_",
+   "SEPIO": "http://purl.obolibrary.org/obo/SEPIO_",
+   "SIO": "http://identifiers.org/sio/",
+   "core": "https://w3id.org/lmodel/uco-core/",
+   "dcid": "https://datacommons.org/browser/",
+   "linkml": "https://w3id.org/linkml/",
+   "lm-core": "https://w3id.org/lmodel/core/",
+   "lm_core": "https://w3id.org/lmodel/core/",
+   "owl": "http://www.w3.org/2002/07/owl#",
+   "role": "https://w3id.org/lmodel/uco-role/",
+   "schema_core": "https://w3id.org/lmodel/uco-core/schema/",
+   "schema_role": "https://w3id.org/lmodel/uco-role/schema/",
+   "sumo": "https://w3id.org/sumo/kb/",
+   "victim": "https://w3id.org/lmodel/uco-victim/",
+   "wikidata": "http://identifiers.org/wikidata/",
+   "Annotation": {
+      "@id": "core:Annotation"
+   },
+   "Assertion": {
+      "@id": "core:Assertion"
+   },
+   "AttributedName": {
+      "@id": "core:AttributedName"
+   },
+   "BenevolentRole": {
+      "@id": "role:BenevolentRole"
+   },
+   "Bundle": {
+      "@id": "core:Bundle"
+   },
+   "Compilation": {
+      "@id": "core:Compilation"
+   },
+   "ConfidenceFacet": {
+      "@id": "core:ConfidenceFacet"
+   },
+   "ContextualCompilation": {
+      "@id": "core:ContextualCompilation"
+   },
+   "ControlledVocabulary": {
+      "@id": "core:ControlledVocabulary"
+   },
+   "EnclosingCompilation": {
+      "@id": "core:EnclosingCompilation"
+   },
+   "ExternalReference": {
+      "@id": "core:ExternalReference"
+   },
+   "Facet": {
+      "@id": "core:Facet"
+   },
+   "Grouping": {
+      "@id": "core:Grouping"
+   },
+   "IdentityAbstraction": {
+      "@id": "core:IdentityAbstraction"
+   },
+   "Item": {
+      "@id": "core:Item"
+   },
+   "MaliciousRole": {
+      "@id": "role:MaliciousRole"
+   },
+   "MarkingDefinitionAbstraction": {
+      "@id": "core:MarkingDefinitionAbstraction"
+   },
+   "ModusOperandi": {
+      "@id": "core:ModusOperandi"
+   },
+   "NeutralRole": {
+      "@id": "role:NeutralRole"
+   },
+   "Relationship": {
+      "@id": "core:Relationship"
+   },
+   "Role": {
+      "@id": "role:Role"
+   },
+   "UcoInherentCharacterizationThing": {
+      "@id": "core:UcoInherentCharacterizationThing"
+   },
+   "UcoObject": {
+      "@id": "core:UcoObject"
+   },
+   "UcoThing": {
+      "@id": "core:UcoThing"
+   }
+}
